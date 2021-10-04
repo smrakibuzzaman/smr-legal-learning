@@ -1,0 +1,26 @@
+[
+    {
+        "id": "smr01",
+        "name": "Master of Laws (LL.M.) in Business Laws and Commercial Transactions",
+        "fee": 400000,
+        "image": "https://iili.io/5HHziv.jpg"
+    },
+    {
+        "id": "smr02",
+        "name": "Master of Laws (LL.M.) in International Trade and Taxation",
+        "fee": 395000,
+        "image": "https://iili.io/59c9wX.jpg"
+    },
+    {
+        "id": "smr03",
+        "name": "MBA with Specialisation in Data Protection and Privacy Management",
+        "fee": 388000,
+        "image": "https://iili.io/59cdns.jpg"
+    },
+    {
+        "id": "smr04",
+        "name": "Certificate Course in Intellectual Property Law and Prosecution",
+        "fee": 370000,
+        "image": "https://iili.io/59cfcl.jpg"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "smr01",
+        "name": "Master of Laws (LL.M.) in Business Laws and Commercial Transactions",
+        "fee": 400000,
+        "image": "https://iili.io/5HHziv.jpg"
+    },
+    {
+        "id": "smr02",
+        "name": "Master of Laws (LL.M.) in International Trade and Taxation",
+        "fee": 395000,
+        "image": "https://iili.io/59c9wX.jpg"
+    },
+    {
+        "id": "smr03",
+        "name": "MBA with Specialisation in Data Protection and Privacy Management",
+        "fee": 388000,
+        "image": "https://iili.io/59cdns.jpg"
+    },
+    {
+        "id": "smr04",
+        "name": "Certificate Course in Intellectual Property Law and Prosecution",
+        "fee": 370000,
+        "image": "https://iili.io/59cfcl.jpg"
+    },
+    {
+        "id": "smr05",
+        "name": "Diploma in M&A, Institutional Finance and Investment Laws",
+        "fee": 90000,
+        "image": "https://iili.io/59cC9S.jpg"
+    },
+    {
+        "id": "smr06",
+        "name": "Diploma in Advanced Contract Drafting, Negotiation and Dispute Resolution",
+        "fee": 880000,
+        "image": "https://iili.io/59cTMb.jpg"
+    },
+    {
+        "id": "smr07",
+        "name": "Diploma in Media and Entertainment Laws",
+        "fee": 79000,
+        "image": "https://iili.io/59caHB.jpg"
+    },
+    {
+        "id": "smr08",
+        "name": "Diploma in Capital Markets and Securities Laws",
+        "fee": 75000,
+        "image": "https://iili.io/59clN1.jpg"
+    },
+    {
+        "id": "smr09",
+        "name": "Diploma in Cyber Law, FinTech Regulations and Technology Contracts",
+        "fee": 70000,
+        "image": "https://iili.io/59c0DF.jpg"
+    },
+    {
+        "id": "smr10",
+        "name": "Diploma in Banking & Finance Practice: Contracts, Disputes & Recovery",
+        "fee": 68000,
+        "image": "https://iili.io/59cEog.jpg"
+    },
+    {
+        "id": "smr11",
+        "name": "Diploma in Labour, Employment and Industrial Laws",
+        "fee": 58000,
+        "image": "https://iili.io/59cGVa.jpg"
+    },
+    {
+        "id": "smr12",
+        "name": "Certificate Course in International Commercial Arbitration and Mediation",
+        "fee": 400000,
+        "image": "https://iili.io/59chSp.png"
+    }
+]
